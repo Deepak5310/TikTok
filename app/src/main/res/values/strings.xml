@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tik Tok</string>
+    <string name="wellcome_text">Wellcome to Tik Tok Game</string>
+    <string name="Grid">mainGrid</string>
+    <string name="todo">TODO</string>
+    <string name="textview">X\'s Turn - Tap to play</string>
+</resources>
