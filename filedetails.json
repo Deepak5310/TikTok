@@ -1,11 +1,22 @@
-{
-"ovpn_file":[
-  {"id":0,"file":"client
-dev tun
-proto udp
-...
-d4ec4105a39c814bd980c9c0e0b8efb4
------END OpenVPN Static key V1-----
-</tls-auth>"},
-{"id":1,"file":""}]
-}
+[
+        {
+            "name": "Deepak Jangir",
+            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Studio Pierrot",
+            "img": "https://avatars3.githubusercontent.com/u/37282143?s=400&u=7975169f7e0413f01c66bc221d40317242f56c8d&v=4"
+        },
+        {
+            "name": "Deedeveloper",
+            "description": "Gol D. Roger was known as the 'Pirate King',the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
+            "Rating": "8.54",
+            "episode": 700,
+             "categorie":"Animation | Drama | Adventure",
+            "studio":"Toei Animation",
+            "img": "https://avatars3.githubusercontent.com/u/37282143?s=400&u=7975169f7e0413f01c66bc221d40317242f56c8d&v=4"
+        },
+
+
+]
